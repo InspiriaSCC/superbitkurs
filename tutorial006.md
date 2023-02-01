@@ -41,7 +41,7 @@ let strip = neopixel.create(DigitalPin.P2, 20, NeoPixelMode.RGB)
 Siden hver NeoPixelstripe er definert som en variabel kan man bruke mange NeoPixelstriper i samme program og få dem til å gjøre forskjellige ting.
 Neopixler kan settes sammen i andre fasonger også. Ringer eller rektangler er populære former.
 For at koden skal virke, må programmet vite hvor mange NeoPixler det er snakk om og hvilken type NeoPixler som sitter på NeoPixelstripen eller ringen eller uansett fasong.
-På stripen som følger med super:bit er NeoPixlene av et format som kalles RGB, men det finnes andre formater.
+På stripen som følger med super:bit er NeoPixlene av et format som kalles RGB-GRB, men det finnes andre formater.
 Om du bruker en annen NeoPixelstripe og merker at fargene ikke stemmer, prøv å endre på NeoPixelformat-delen i denne blokken.
 
 ### Steg 3 Bruke neopixel med krokodilleklemmer 3
