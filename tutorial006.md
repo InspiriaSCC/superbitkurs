@@ -166,8 +166,7 @@ basic.forever(function () {
 
 ### Forskjellen på shift pixels og rotate pixels @unplugged
 
-Du la kanskje merke til at det lå en animasjonsblokk til rett over ``||neopixel.strip rotate pixels by 1||``?
-``||neopixel.strip shift pixels by 1||`` gjør nesten det samme som ``||neopixel.strip rotate pixels by 1||``, men starter ikke på 0 igjen når bevegelsen når enden.
+Du la kanskje merke til at det lå en animasjonsblokk til rett over ``||neopixel.strip rotate pixels by 1||``? ``||neopixel.strip shift pixels by 1||`` gjør nesten det samme som ``||neopixel.strip rotate pixels by 1||``, men starter ikke på 0 igjen når bevegelsen når enden.
 Dermed slutter animasjonen når siste animerte pixel når enden av stripa.
 Denne animasjonen kan være kul i mange tilfeller, men passer ikke for animasjoner som skal gå for alltid.
 Om du setter inn et negativt tall i det hvite feltet, endrer animasjonen retning.
