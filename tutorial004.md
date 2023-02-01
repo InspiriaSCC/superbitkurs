@@ -158,7 +158,7 @@ function nyRunde () {
 Nå må du tilbake til ``||basic.ved start||``-blokken for å kalle på funksjonen du nettopp lagde.
 Hent ``||functions.kjør nyRunde||``-blokken fra ``||functions.Funksjoner||``-menyen og plasser den nederst i koden i ``||basic.ved start||``-blokken.
 Den siste blokken du trenger i startkoden din er en nedtellingsblokk, slik at ikke spillet varer evig.
-Hent en ``||game.start nedtelling 10000 ms||``-blok fra ``||game.Spill||``-menyen og plasser den under ``||functions.kjør nyRunde||``-blokken i ``||basic.ved start||``.
+Hent en ``||game.start nedtelling 10000 ms||``-blokk fra ``||game.Spill||``-menyen og plasser den under ``||functions.kjør nyRunde||``-blokken i ``||basic.ved start||``.
 Nedtellingsblokken legger automatisk til en animasjon i starten og en "GAME OVER - SCORE" tekst i slutten av spillet.
 Nå har du plassert all koden du trenger i startblokken.
 Nå skal vi få jegeren til å bevege seg når Micro:Biten vippes.
