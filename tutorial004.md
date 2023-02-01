@@ -542,7 +542,7 @@ basic.forever(function () {
 
 Dersom den logiske sjekken finner ut at ``||variables.jeger||`` og ``||variables.bytte||`` har samme x- og y-verdi, skal spilleren få et poeng og en ny runde begynne.
 Hent en ``||game.endre poengsum med 1||``-blokk fra ``||game.Spill||``-menyen og plasser den i gapet på ``||logic.hvis sann så||``-blokken.
-Nå får spilleren et poeng hvergang byttet blir fanget.
+Nå får spilleren et poeng hver gang byttet blir fanget.
 Hent blokken ``||functions.kjør nyRunde||`` fra ``||functions.Funksjoner||``-menyen og legg den inn i ``||logic.hvis sann så||``-blokken under ``||game.endre poengsum med 1||``-blokken.
 Den siste blokken du satte inn i koden påkaller funksjonen ``||functions.nyRunde||`` som starter en ny spillrunde.
 Spillet fortsetter å kjøre nye runder til tiden løper ut.

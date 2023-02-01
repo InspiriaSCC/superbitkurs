@@ -4,8 +4,8 @@
 ## Lag et automatisk nattlys med Micro:Bit
 ### Introduksjon @unplugged
 
-Diplayet på Micro:Biten består av 25 LED-pærer.
-Micro:Bit kan også brukes til å måle lys fra omgivelsene.
+Displayet på Micro:Biten består av 25 LED-pærer.
+LED-pærene på displayet er sensitive for lys, og dermed kan Micro:Biten brukes til å måle lys fra omgivelsene.
 I denne økten lærer du hvordan du kan bruke lyssensoren til å lage en lampe som slår seg på når det blir mørkt.
 
 ### Litt praktisk om lyssensoren @unplugged
@@ -138,7 +138,7 @@ Da risikerer du å svi kretsene i Micro:Biten og ødelegge den.
 
 ### Steg 7
 
-Når lysnivået er høyere enn vardien du satte inn i ``||logic.lysnivå < 0||``-blokken skal LED-pæren være slukket.
+Når lysnivået er høyere enn verdien du satte inn i ``||logic.lysnivå < 0||``-blokken skal LED-pæren være slukket.
 Kopier ``||pins.skriv digital digital til P0 verdi 0||``-blokken og dra kopien inn i det siste gapet på ``||logic.hvis så ellers||``-blokken.
 Endre tallet **"1"** til **"0"** i det siste feltet i den nye ``||pins.skriv digital til P0 verdi 0||``-blokken.
 Last ned programmet til Micro:Biten og sjekk at alt fungerer som det skal.
