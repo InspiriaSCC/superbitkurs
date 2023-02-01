@@ -27,7 +27,7 @@ Micro:Bit har:<br>
 * akselerometer<br>
 * 2 knapper som kan brukes hver for seg eller sammen<br>
 Alle disse kan brukes som inndata.
-I tillegg har Micro:Bit radio og en kontaktstriper som kan ta imot elektroniske signaler.
+I tillegg har Micro:Bit radio og en stripe med kontakter som kan ta imot elektroniske signaler.
 
 ### Steg 5: Terning uten å lagre variabel
 Fra ``||basic.Basis||``-menyen trenger du nå blokken ``||basic.vis tall||``.
