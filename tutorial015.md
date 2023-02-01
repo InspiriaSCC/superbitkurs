@@ -9,7 +9,7 @@ I denne gjennomgangen lærer du å programmere bom som åpnes ved hjelp av en av
 ### Steg 1 @unplugged
 
 Monter en hvit, enkel plastarm til en **180-graderservo** som vist på bildet.
-Koble **180-graderservoen** til rekken av kontakter som forklart og vist.
+Koble **180-graderservoen** til rekken av kontakter som forklart og vist her:
 Servoene som følger med super:bit har tre ledninger ut, en brun, en rød og en oransje.
 Brun er jordledningen, den skal kobles til GND.
 Rød er "+"-ledningen som skal kobles til 5V.
