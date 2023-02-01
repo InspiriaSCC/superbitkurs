@@ -2,7 +2,7 @@
 > Open this page at [https://inspiriascc.github.io/superbitkurs/](https://inspiriascc.github.io/superbitkurs/)
 
 ## Lenker til praktiske:
-* [README (Denne filen)](https://makecode.microbit.org/#tutorial:github:yngel72/Superbit/README)
+* [README (Denne filen)](https://makecode.microbit.org/#tutorial:github:InspiriaSCC/superbitkurs/README)
 * [Kodeøkt 1 - Bruk displayet](https://makecode.microbit.org/#tutorial:github:InspiriaSCC/superbitkurs/tutorial001)
 * [Kodeøkt 2 - Lag en enkel terning](https://makecode.microbit.org/#tutorial:github:InspiriaSCC/superbitkurs/tutorial002)
 * [Kodeøkt 3 - Kjør Bit:Bot](https://makecode.microbit.org/#tutorial:github:InspiriaSCC/superbitkurs/tutorial007)
