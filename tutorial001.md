@@ -8,7 +8,7 @@ I midten er en kolonne med fargede kategorier. Her er blokkene du trenger for å
 Til høyre finner du arbeidsområdet. Her plasserer du blokker for å bygge programmer til Micro:Biten.
 Når du flytter en blokk i arbeidsområdet, følger blokkene under blokken du flytter også med.
 ***Du kan flytte en enkeltblokk ved å holde inn Ctrl-knappen mens du klikker og drar.***
-La oss varme opp litt lett kode til å begynne med.
+La oss varme opp med litt lett kode til å begynne med.
 
 ### La oss starte enkelt @unplugged
 

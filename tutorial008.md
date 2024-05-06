@@ -1,6 +1,6 @@
 ### @activities true
 
-# super:bit - Kodeøkt 11: Hvordan bruke avstandssensoren til Bit:Bot
+# super:bit - Kodeøkt 12: Hvordan bruke avstandssensoren til Bit:Bot
 ## Avstandssensoren til Bit:Bot
 ### Introduksjon @unplugged
 

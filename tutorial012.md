@@ -1,6 +1,6 @@
 ### @activities true
 
-# super:bit - Kodeøkt 10: Enkel bruk av servo
+# super:bit - Kodeøkt 11: Enkel bruk av servo
 ## Bruk servoer til å lage bevegelse
 ### Introduksjon @unplugged
 
